@@ -1,10 +1,12 @@
-<h1 align="center">Hi!,  I'm Alamin <img src=
+<h1 align="center">Hi!,  I'm Nicolas Cabrera <img src=
 "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<div align="center">
+  Front-End Enthusiast 👨‍💻 | Web Dev 💻 | PC Repair 🛠️ | Systems Analysis Student 📚
 
-Front-End Enthusiast 👨‍💻 | Web Dev 💻 | PC Repair 🛠️ | Systems Analysis Student 📚
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nicoucabrera&theme=tokyonight)](https://git.io/streak-stats)
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nicoucabrera&theme=tokyonight)](https://git.io/streak-stats)
 
 
 
