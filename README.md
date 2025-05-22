@@ -6,9 +6,6 @@
 </h2>
 <br>
 <br>
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nicoucabrera&theme=tokyonight)](https://git.io/streak-stats)
-<br>
-<br>
 <h2 align="center"><u>My Github Stats</u></h2>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TekyaygilFethi&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
