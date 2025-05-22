@@ -3,7 +3,7 @@
 
 <div align="center">
   Front-End Enthusiast 👨‍💻 | Web Dev 💻 | PC Repair 🛠️ | Systems Analysis Student 📚
-
+  <br>
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nicoucabrera&theme=tokyonight)](https://git.io/streak-stats)
 </div>
 
